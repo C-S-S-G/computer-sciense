@@ -1,1 +1,17 @@
 # 웹개발
+- [ ] 브라우저
+- [ ] 쿠키, 세션
+- [ ] HTTP request method
+- [ ] HTTP status code
+- [ ] REST API
+- [ ] 웹 서버와 WAS
+- [ ] OAuth
+- [ ] JWT
+- [ ] Authentication, Authorization
+- [ ] 로그 레벨
+- [ ] UI, UX
+- [ ] CSR & SSR
+- [ ] Vue.js, React
+- [ ] CSRF, XSS
+- [ ] 네이티브 앱, 웹, 앱, 하이브리드 앱
+- [ ] PWA
