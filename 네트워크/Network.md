@@ -1,1 +1,11 @@
 # 네트워크
+- [ ] OSI 7 계층
+- [ ] TCP 3 Way Handshake, 4 way handshake
+- [ ] TCP/IP 흐름제어, 혼잡제어
+- [ ] UDP
+- [ ] 대칭키, 공개키
+- [ ] HTTP, HTTPs
+- [ ] TLS/SSL handshake
+- [ ] 로드 밸런싱
+- [ ] Blocking, NonBlocking, Synchronous, Asynchronous
+- [ ] Blocking, NonBlocing I/O
